@@ -1,1 +1,3 @@
-Sam Daitzman who is a person
+# /* TEAM */
+
+Software developer and designer: Sam Daitzman
