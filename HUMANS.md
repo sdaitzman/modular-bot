@@ -12,7 +12,9 @@ _Email:_ edwardcolindres69@gmail.com
 _Location:_ Chelsea, Massachusetts, USA
 
 # /* THANKS */
-_Simple Dynamixel:_ [code.google.com/p/simple-dynamixel/](https://code.google.com/p/simple-dynamixel/)
+_Processing:_ An easy-to-use, flexible programming language meant for anything visual at [processing.org](http://processing.org)
+_Simple Dynamixel:_ Dynamixel servo control library for Processing.app at [code.google.com/p/simple-dynamixel](https://code.google.com/p/simple-dynamixel/)
+_Vagrant:_ Easy, portable VirtualBox VM Management at [vagrantup.com](http://vagrantup.com)
 
 # /* PROJECT */
 _Goal:_ a simple, understandable, extensible and modular robotic system (Data-rich Ocular Ground-based Extensible robot, or DOGEbot if you prefer)
