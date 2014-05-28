@@ -16,5 +16,5 @@ _Simple Dynamixel:_ [code.google.com/p/simple-dynamixel/](https://code.google.co
 
 # /* PROJECT */
 _Goal:_ a simple, understandable, extensible and modular robotic system (Data-rich Ocular Ground-based Extensible robot, or DOGEbot if you prefer)
-_Repository:_ [github.com/sdaitzman/modular-bot](https://github.com/sdaitzman/modular-bot)'
+_Repository:_ [github.com/sdaitzman/modular-bot](https://github.com/sdaitzman/modular-bot)
 _Funding and physical location:_ [NuVu Studio](http://cambridge.nuvustudio.com/discover) - a design/innovation center for teenagers in Cambridge, Massachusetts
