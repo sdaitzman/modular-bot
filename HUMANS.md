@@ -1,8 +1,6 @@
 # /* TEAM */
 _Executive software developer, designer, writer of documentation:_ Sam Daitzman
-
 _Email:_ samuel@daitzman.com, llamaswill@gmail.com
-
 _Website/blog:_ [sdaitzman.tumblr.com](http://sdaitzman.tumblr.com)
 _GitHub:_ [@sdaitzman](http://github.com/sdaitzman)
 _CodePen:_ [@sdaitzman](http://codepen.io/sdaitzman)
