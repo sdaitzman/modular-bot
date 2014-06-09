@@ -1,0 +1,34 @@
+<html>
+<head>
+	<title>Interface.js</title>
+	<script src="zepto.js"></script>
+	<script src="interface.js"></script>
+	
+	<style>
+	
+	* {
+		background: black;
+	}
+
+	.interfacePanel {
+		display:block;
+		width:100%;
+		height:100%;
+	}
+	</style>
+</head>
+
+<body>
+	<div id='buttonPanel' class='interfacePanel'>
+	</div>
+	<script>
+	var panel = new Interface.Panel({  background:"#000", container:$("#buttonPanel") });
+	var laserButton = new Interface.Button({ bounds:[.05,.05,.3,.9],  label:'Laser'  });
+	var cleanButton = new Interface.Button({ bounds:[.35,.05,.3,.9],  label:'Clean', mode:'momentary'  });
+	var contactButton = new Interface.Button({ bounds:[.65,.05,.3,.9],  label:'contact', mode:'contact'  });
+
+	panel.background = 'white';
+	panel.add(laserButton, cleanButton, contactButton);
+	</script>
+</body>
+</html>
